@@ -10,10 +10,6 @@ function increment(){
 }
 
 
-let name = 'admin'
-let greetings = 'hello i am '
-let mygreeting = ''
-
 
 console.log('save-el')
 
