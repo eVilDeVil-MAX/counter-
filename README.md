@@ -1,5 +1,5 @@
 # counter
-1. so its a stack website which counts the number of time u click increment. 
+1. so its a static website which counts the number of time u click increment. 
 
 ![Alt text](https://i.imgur.com/EoznfEt.png "Optional title")
 
